@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://abrockmann.github.io
+title: Arne Brockmann
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 10
