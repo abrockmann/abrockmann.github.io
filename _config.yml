@@ -1,8 +1,22 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://abrockmann.github.io
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 title: Arne Brockmann
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 10
+email: hallo@arnebrockmann.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+twitter_username: w2763
+github_username:  arnebrockmann
+
+gems: [bourbon, bitters, neat]
+# Build settings
+markdown: kramdown
