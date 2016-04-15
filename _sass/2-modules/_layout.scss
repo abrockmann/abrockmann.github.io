@@ -11,6 +11,11 @@ main {
 }
 header {
 	@include outer-container;
+	padding: 2em;
+	
+	@include media ($small-screen-down) {
+		padding: 0;
+		}
 }
 
 .wrapper {
