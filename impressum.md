@@ -14,7 +14,7 @@ Schulstr. 5<br />
 <td>Telefon:</td>
 <td>+49 151 75002770</td></tr>
 <tr><td>E-Mail:</td>
-<td>info@arnebrockmann.com</td>
+<td>hallo@arnebrockmann.com</td>
 </tr></table>
 
 <h3>Haftungsausschluss (Disclaimer)</h3>

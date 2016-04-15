@@ -1,5 +1,9 @@
 body {
   	padding: 1em;
+  	
+  	@include media ($small-screen-down) {
+			padding: 0;
+		}
 }
 
 main {
@@ -13,7 +17,15 @@ header {
 	@include row();
 	.outer-container {
 		@include outer-container;
-		width: 400px;
+		width: 30em;
+		
+		@include media ($medium-screen-down) {
+			width: 25em;
+			}
+			
+		@include media ($small-screen-down) {
+			width: 20em;
+		}
 	}
 }
 
