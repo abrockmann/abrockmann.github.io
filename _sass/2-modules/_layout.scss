@@ -13,7 +13,7 @@ header {
 	@include row();
 	.outer-container {
 		@include outer-container;
-    width: 400px;
+		width: 400px;
 	}
 }
 
