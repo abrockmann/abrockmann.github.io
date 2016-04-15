@@ -10,7 +10,7 @@ title: Arne Brockmann
 email: hallo@arnebrockmann.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+url: "http://arnebrockmann.com" # the base hostname & protocol for your site
 twitter_username: w2763
 github_username:  arnebrockmann
 
