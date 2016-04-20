@@ -1,10 +1,10 @@
 ---
 title: Impressum
-layout: page
 lang: de
+layout: page
 ---
 
-<h3>Angaben gemäß § 5 TMG:</h3>
+### Angaben gemäß § 5 TMG:
 <p>Arne Brockmann<br />
 Schulstr. 5<br />
 17089 Siedenbollentin
