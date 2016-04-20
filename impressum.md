@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Impressum
+layout: page
 lang: de
 ---
 
