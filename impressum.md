@@ -6,8 +6,8 @@ layout: page
 
 ### Angaben gemäß § 5 TMG:
 <p>Arne Brockmann<br />
-Schulstr. 5<br />
-17089 Siedenbollentin
+Fasanenring 24<br />
+90607 Rückersdorf
 </p>
 <h3>Kontakt:</h3>
 <table><tr>
